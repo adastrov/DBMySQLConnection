@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/DBConnection/pom.xml" />
+        <option value="$PROJECT_DIR$/HibernateConnection/pom.xml" />
       </list>
     </option>
   </component>

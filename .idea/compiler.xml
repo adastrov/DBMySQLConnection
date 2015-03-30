@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="DBConnection" />
+        <module name="HibernateConnection" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DBConnection" target="1.5" />
+      <module name="HibernateConnection" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

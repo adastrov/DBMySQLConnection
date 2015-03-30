@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DBConnection/DBConnection.iml" filepath="$PROJECT_DIR$/DBConnection/DBConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DBMySQLConnection.iml" filepath="$PROJECT_DIR$/.idea/DBMySQLConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateConnection/HibernateConnection.iml" filepath="$PROJECT_DIR$/HibernateConnection/HibernateConnection.iml" />
     </modules>
   </component>
 </project>
