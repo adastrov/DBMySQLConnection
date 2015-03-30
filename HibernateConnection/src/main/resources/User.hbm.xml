@@ -14,5 +14,8 @@
         <property name="lastName" type="string">
             <column name="LAST_NAME" length="20" not-null="true" unique="true" />
         </property>
+        <property name="email" type="string">
+            <column name="EMAIL" length="20" not-null="false" unique="true" />
+        </property>
     </class>
 </hibernate-mapping>
